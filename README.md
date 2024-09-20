@@ -3,4 +3,17 @@
 
 # Name: Samuel Muma
 
-# Comments: 
+# Comments: Project Title: INST377 Lab 4
+
+# Description:
+A simple HTML project demonstrating various form elements, JavaScript interactions, and basic styling.
+
+# Features:
+Alert Me: Allows the user to enter their name and receive a personalized alert.
+Change Color: Changes the background color of the page between two pastel shades.
+
+Text Tester: Validates user-entered text for special characters.
+Add Text: Adds the text "Add Text" to the page heading.
+
+# Technologies:
+HTML, CSS, JavaScript
