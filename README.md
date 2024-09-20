@@ -10,10 +10,10 @@ A simple HTML project demonstrating various form elements, JavaScript interactio
 
 # Features:
 Alert Me: Allows the user to enter their name and receive a personalized alert.
-Change Color: Changes the background color of the page between two pastel shades.
+Change Color: Change the background color of the page between two pastel shades.
 
 Text Tester: Validates user-entered text for special characters.
-Add Text: Adds the text "Add Text" to the page heading.
+Add Text: Add the text "Add Text" to the page heading.
 
 # Technologies:
 HTML, CSS, JavaScript
